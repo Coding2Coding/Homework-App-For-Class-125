@@ -1,0 +1,18 @@
+.copyrightFooter {
+    position: fixed;
+    color: #ffffff;
+    font-style: oblique;
+    bottom: 0;
+    width: 100%;
+    background: lightskyblue;
+    line-height: 2;
+    text-align: center;
+}
+
+canvas {
+    border-style: dotted;
+    border-width: 4px;
+    border-color: #ffffff;
+    background: rgb(255, 188, 188);
+    box-shadow: 4px 4px 4px lightskyblue;
+}
